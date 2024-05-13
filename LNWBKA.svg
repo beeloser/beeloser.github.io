@@ -1,0 +1,31 @@
+<svg version="1.1"
+     width="1080" height="1080"
+     xmlns="http://www.w3.org/2000/svg">
+
+<path d="M540,5 l120,80 v140 l-120,80 l-120,-80 v-140 l120,-80" fill="none" stroke="black" stroke-width="5"/>
+<path d="M540,500 l120,80 v140 l-120,80 l-120,-80 v-140 l120,-80" fill="none" stroke="black" stroke-width="5"/>
+<path d="M540,995 l120,80 v140 l-120,80 l-120,-80 v-140 l120,-80" fill="none" stroke="black" stroke-width="5"/>
+<path d="M392,255 l120,80 v140 l-120,80 l-120,-80 v-140 l120,-80" fill="none" stroke="black" stroke-width="5"/>
+<path d="M688,255 l120,80 v140 l-120,80 l-120,-80 v-140 l120,-80" fill="none" stroke="black" stroke-width="5"/>
+<path d="M392,750 l120,80 v140 l-120,80 l-120,-80 v-140 l120,-80" fill="none" stroke="black" stroke-width="5"/>
+<path d="M688,750 l120,80 v140 l-120,80 l-120,-80 v-140 l120,-80" fill="none" stroke="black" stroke-width="5"/>
+
+<path d="M244,5 l120,80 v140 l-120,80 l-5,-5 v-285 l10,-10" fill="none" stroke="black" stroke-width="5"/>
+<path d="M836,5 l5,10 v285 l-5,10 l-120,-80 v-140 l120,-85" fill="none" stroke="black" stroke-width="5"/>
+<path d="M244,500 l120,80 v140 l-120,80 l-5,-5 v-285 l10,-10" fill="none" stroke="black" stroke-width="5"/>
+<path d="M836,500 l5,10 v285 l-5,10 l-120,-80 v-140 l120,-85" fill="none" stroke="black" stroke-width="5"/>
+
+<path d="M327,0 l65,45 l65,-45" fill="none" stroke="black" stroke-width="5"/>
+<path d="M623,0 l65,45 l65,-45" fill="none" stroke="black" stroke-width="5"/>
+<path d="M237,1000 l5,-5 120,85" fill="none" stroke="black" stroke-width="5"/>
+<path d="M693,1080 l130,-85 l20,20" fill="none" stroke="black" stroke-width="5"/>
+
+<text x="517" y="170" font-size="60" text-anchor="left" fill="black">L</text>
+<text x="369" y="420" font-size="60" text-anchor="left" fill="black">N</text>
+<text x="662" y="420" font-size="60" text-anchor="left" fill="black">W</text>
+<text x="517" y="665" font-size="60" text-anchor="left" fill="black">B</text>
+<text x="369" y="915" font-size="60" text-anchor="left" fill="black">K</text>
+<text x="662" y="915" font-size="60" text-anchor="left" fill="black">A</text>
+
+<rect x="237" y="0" rx="0" ry="0" width="606" height="1080" fill="none" stroke="black" stroke-width="5"/>
+</svg>
