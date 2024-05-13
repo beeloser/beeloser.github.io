@@ -25,7 +25,7 @@
 <text x="662" y="420" font-size="60" text-anchor="start" fill="black">W</text>
 <text x="517" y="665" font-size="60" text-anchor="start" fill="black">B</text>
 <text x="369" y="915" font-size="60" text-anchor="start" fill="black">K</text>
-<text x="662" y="915" font-size="60" text-anchor="left" fill="black">A</text>
+<text x="662" y="915" font-size="60" text-anchor="start" fill="black">A</text>
 
 <rect x="237" y="0" rx="0" ry="0" width="606" height="1080" fill="none" stroke="black" stroke-width="5"/>
 </svg>
