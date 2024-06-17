@@ -1,6 +1,7 @@
-<svg version="1.1"
+<svg version="1.2" baseProfile="tiny-ps"
      viewBox="0 0 1080 1080" width="1080" height="1080"
-     xmlns="http://www.w3.org/2000/svg">
+	 xmlns="http://www.w3.org/2000/svg">
+	 <title>LNWBKA</title>
 
 <path d="M540,5 l120,80 v140 l-120,80 l-120,-80 v-140 l120,-80" fill="none" stroke="black" stroke-width="5"/>
 <path d="M540,500 l120,80 v140 l-120,80 l-120,-80 v-140 l120,-80" fill="none" stroke="black" stroke-width="5"/>
